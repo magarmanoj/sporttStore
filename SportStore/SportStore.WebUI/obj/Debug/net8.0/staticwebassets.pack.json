@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SportStore.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SportStore.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\0b0a09b9-a3fa-489e-83de-bd52e16a9422.png",
+      "PackagePath": "staticwebassets\\photos\\0b0a09b9-a3fa-489e-83de-bd52e16a9422.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\217c79d0-cb5f-4f29-828b-e6d2fb1c9db7.png",
+      "PackagePath": "staticwebassets\\photos\\217c79d0-cb5f-4f29-828b-e6d2fb1c9db7.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\2fd55071-6f28-4b9c-b716-50779e91fc8f.png",
+      "PackagePath": "staticwebassets\\photos\\2fd55071-6f28-4b9c-b716-50779e91fc8f.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\34a674d3-5ec3-45d1-a981-4f442d3329d5.png",
+      "PackagePath": "staticwebassets\\photos\\34a674d3-5ec3-45d1-a981-4f442d3329d5.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\3dad8ace-56bf-4589-8617-f47d7794950c.png",
+      "PackagePath": "staticwebassets\\photos\\3dad8ace-56bf-4589-8617-f47d7794950c.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\5c415697-53eb-4a2c-9ac1-755fd68f48af.png",
+      "PackagePath": "staticwebassets\\photos\\5c415697-53eb-4a2c-9ac1-755fd68f48af.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\6aa33a4c-4bb3-448a-8c7a-28d9857efbfd.png",
+      "PackagePath": "staticwebassets\\photos\\6aa33a4c-4bb3-448a-8c7a-28d9857efbfd.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\790aa2a3-89f1-41e0-b1b0-8dae0e6b72f8.png",
+      "PackagePath": "staticwebassets\\photos\\790aa2a3-89f1-41e0-b1b0-8dae0e6b72f8.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\790b5d23-bbc8-45fd-9ef3-70fe8025b91f.png",
+      "PackagePath": "staticwebassets\\photos\\790b5d23-bbc8-45fd-9ef3-70fe8025b91f.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\7b1f6c76-6f24-45f8-a925-fd4504813267.png",
+      "PackagePath": "staticwebassets\\photos\\7b1f6c76-6f24-45f8-a925-fd4504813267.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\81328c66-11db-4ec0-90cc-fddd9e66459b.png",
+      "PackagePath": "staticwebassets\\photos\\81328c66-11db-4ec0-90cc-fddd9e66459b.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\837223ad-3382-44f7-9710-f931f417095c.png",
+      "PackagePath": "staticwebassets\\photos\\837223ad-3382-44f7-9710-f931f417095c.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\848c803c-bc22-4997-a247-25d7a90cd06b.png",
+      "PackagePath": "staticwebassets\\photos\\848c803c-bc22-4997-a247-25d7a90cd06b.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\95027e31-2424-4cb4-a26c-22e4e7908b63.png",
+      "PackagePath": "staticwebassets\\photos\\95027e31-2424-4cb4-a26c-22e4e7908b63.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\9c0b5363-706f-4e56-9a95-7fd1f2031b9e.png",
+      "PackagePath": "staticwebassets\\photos\\9c0b5363-706f-4e56-9a95-7fd1f2031b9e.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\b8e3502f-52e1-4483-a4f8-06e70acf11fe.png",
+      "PackagePath": "staticwebassets\\photos\\b8e3502f-52e1-4483-a4f8-06e70acf11fe.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\ce4dd79d-0ffd-4035-af0b-f7091a6040fc.png",
+      "PackagePath": "staticwebassets\\photos\\ce4dd79d-0ffd-4035-af0b-f7091a6040fc.png"
+    },
+    {
+      "Id": "C:\\Users\\ManojM\\Desktop\\school\\2de\\BAD\\SportStore\\SportStore.WebUI\\wwwroot\\photos\\e8663a9e-5693-4991-a696-f2555aceb82d.png",
+      "PackagePath": "staticwebassets\\photos\\e8663a9e-5693-4991-a696-f2555aceb82d.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SportStore.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SportStore.WebUI.props",
+      "PackagePath": "build\\SportStore.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SportStore.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\SportStore.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SportStore.WebUI.props",
+      "PackagePath": "buildTransitive\\SportStore.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
